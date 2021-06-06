@@ -1,0 +1,19 @@
+.comic-container{
+    background-color: #ffffff;
+    width: 600px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.comic-container .comic-info {
+    display: flex;
+}
+
+.comic-container .comic-image {
+    width: 200px;
+    height: 300px;
+    font-size: 25px;
+    
+}
+
